@@ -32,7 +32,7 @@ Here is a visual walkthrough of the application in action:
 
 ### 1. The Planning Phase (Home Dashboard)
 Users start by selecting the month and entering their expected income sources and expense categories. This sets the financial baseline for the month.
-![Empty Dashboard](assets/dashboard-empty.png)
+![Empty Dashboard](https://github.com/AnilObscura/Expense-Analyzer--P1/blob/0057b70e1b9158452ff01ff0491b0642a86ee8b8/ss.1.PNG)
 
 ### 2. Instant Financial Feedback
 Upon clicking "Calculate Budget", the backend engine runs complex logic (Wealth Carry-Forward, Financial Score formula). The user instantly sees their KPI cards update and a dynamic Gauge Chart displaying their financial health score.
