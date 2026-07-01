@@ -64,8 +64,11 @@ This project follows a strict **3-Tier MVC (Model-View-Controller)** architectur
 [Services (Business Logic)]  <-- The "Brain" (Does ALL calculations here)
     ⬇
 [Models (SQLAlchemy ORM)]    <-- Communicates with the SQLite Database
+```
 
-## Core Logics 
+---
+
+## Core Logics
 
 These are the complex algorithmic systems built into the backend:
 
@@ -153,10 +156,10 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-Install Dependencies:
+# Install Dependencies:
 pip install flask flask-sqlalchemy plotly
 
-Start the Application:
+# Start the Application:
 python app.py
 
 Open in Browser:
