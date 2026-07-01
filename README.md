@@ -36,19 +36,19 @@ Users start by selecting the month and entering their expected income sources an
 
 ### 2. Instant Financial Feedback
 Upon clicking "Calculate Budget", the backend engine runs complex logic (Wealth Carry-Forward, Financial Score formula). The user instantly sees their KPI cards update and a dynamic Gauge Chart displaying their financial health score.
-![Dashboard Calculated](assets/dashboard-calculated.png)
+![Dashboard Calculated](https://github.com/AnilObscura/Expense-Analyzer--P1/blob/0057b70e1b9158452ff01ff0491b0642a86ee8b8/ss.2.PNG)
 
 ### 3. Tracking Real-World Spending (Weekly Tracking)
 Instead of daily logging, the user enters their actual spending just once a week. The system automatically calculates Deviations %, updates the Status (On Track / Overspending), and plots a real-time "Actual vs Expected" graph to visualize spending behavior.
-![Weekly Tracking](assets/tracking-filled.png)
+![Weekly Tracking](https://github.com/AnilObscura/Expense-Analyzer--P1/blob/0057b70e1b9158452ff01ff0491b0642a86ee8b8/ss.3.PNG)
 
 ### 4. Deep Analytics & Trends (Reports)
 The Reports page pulls aggregated data from the database to generate interactive Plotly charts. This includes Expense Trend Analysis (Planned vs. Actual), Savings Trends, and the highly visual Wealth Growth chart.
-![Reports Trends](assets/reports-trends.png)
+![Reports Trends](https://github.com/AnilObscura/Expense-Analyzer--P1/blob/0057b70e1b9158452ff01ff0491b0642a86ee8b8/ss.4.PNG)
 
 ### 5. Financial Intelligence & Investment Readiness
 The system automatically analyzes your data to generate an Expense Breakdown Donut Chart, showing exactly where your money goes. It also calculates a 6-month Emergency Fund target, compares it with your actual wealth, and dynamically outputs your "Investment Capacity".
-![Reports Investment](assets/reports-investment.png)
+![Reports Investment](https://github.com/AnilObscura/Expense-Analyzer--P1/blob/0057b70e1b9158452ff01ff0491b0642a86ee8b8/ss.5.PNG)
 
 ---
 
